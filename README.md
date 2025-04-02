@@ -38,4 +38,4 @@ This project is open-source and free to use.
 Feel free to fork this repository and submit pull requests to improve Budgetly!
 
 ## Author
-Developed by [Your Name]
+Developed by Bhagvati Gaikwad
