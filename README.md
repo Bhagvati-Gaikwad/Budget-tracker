@@ -1,62 +1,66 @@
 # ExpenseEase
 
-ExpenseEase is a simple and efficient expense tracker designed to help you manage your budget and monitor your spending effortlessly.  
-It features **persistent data storage using LocalStorage**, so your data remains saved even after refreshing or closing your browser—without any backend database.
+**ExpenseEase** is a lightweight and user-friendly expense tracker that empowers you to manage your budget and monitor your spending efficiently. With **persistent client-side storage**, your financial data remains safe and accessible—even after refreshing or closing your browser—without requiring any backend setup.
+
+🔗 Live Demo: [ExpenseEase](https://bhagvati-gaikwad.github.io/Budget-tracker/)
+
 ---
 
 ## Features
 
-- Set and track your budget  
-- Add and manage expenses with task names and amounts  
-- View remaining budget and spending progress visually  
-- Sort expenses by task, amount, or date  
-- Delete individual expenses  
-- Reset data for a fresh start every month  
-- Export expenses as a PDF report  
-- **Persistent data storage using LocalStorage (no database needed)**  
+* **Set and Track Budget:** Define your monthly budget and monitor your spending.
+* **Add and Manage Expenses:** Log expenses with task names, amounts, and dates.
+* **Visual Progress Tracking:** Monitor your remaining budget with an intuitive progress bar.
+* **Sort Expenses:** Organize your expenses by task name, amount, or date.
+* **Delete Expenses:** Remove individual entries effortlessly.
+* **Reset Data:** Clear all records to start fresh for a new month.
+* **Export Reports:** Generate PDF reports of your expenses using jsPDF.
+* **Persistent Storage:** All data is saved locally using the browser’s LocalStorage API—no server or database required.
 
 ---
 
-## Installation
+## Getting Started
 
-No installation required! Simply open the project’s `index.html` file in any modern web browser to get started.
+No installation required. Simply open the project’s `index.html` file in any modern web browser to start tracking your expenses.
 
----
+### Usage
 
-## Usage
-
-1. Enter your budget and set it.  
-2. Add expenses by entering a task name and amount.  
-3. Track your spending progress with the progress bar.  
-4. Delete expenses as needed.  
-5. Use the reset button (hidden in the top right corner) to clear all data and start fresh for a new month.  
+1. Enter and set your budget.
+2. Add expenses by specifying a task name and amount.
+3. Track your spending visually with the progress bar.
+4. Delete individual expenses as needed.
+5. Use the reset button (located at the top-right corner) to clear all data for a new month.
 6. Download a PDF report of your expenses at any time.
 
 ---
 
-## Technologies Used
+## Technologies
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
-- LocalStorage API (for persistent, client-side data storage)  
-- jsPDF (for generating PDF reports)  
+* **HTML5** – Structure and layout of the application
+* **CSS3** – Styling and responsive design
+* **JavaScript (Vanilla JS)** – Application logic and interactivity
+* **LocalStorage API** – Persistent client-side data storage
+* **jsPDF** – PDF report generation
 
 ---
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork this repository and submit pull requests to improve ExpenseEase.
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests. Any enhancements to features, design, or performance are appreciated.
 
 ---
 
 ## License
 
-This project is open-source and free to use.
+This project is **open-source** and free to use under the MIT License.
 
 ---
 
 ## Author
 
-Developed by Bhagvati Gaikwad  
-- GitHub: [bhagvati-gaikwad](https://github.com/bhagvati-gaikwad)  
+**Bhagvati Gaikwad**
+
+* GitHub: [bhagvati-gaikwad](https://github.com/bhagvati-gaikwad)
+
+---
+
